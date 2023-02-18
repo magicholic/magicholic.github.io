@@ -8,7 +8,7 @@ body{
 }
 .banner{
   height: 600px;
-  background-image: url(../images/pawtag_b.jpg);
+  background-image: url(./images/pawtag_b.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
